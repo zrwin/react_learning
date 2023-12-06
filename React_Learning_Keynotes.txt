@@ -1,0 +1,41 @@
+Javasciprt:
+
+	Data types: 
+	
+	Primitive(immutable): NNSSBU (Null,Number,STring,symbol,Boolean,Undefined)
+			 and non-primitive(mutable): Objects,Arrays
+		Primitive types can be compared based on value
+		ex:- let a =5; 
+			let b= 5;
+			(a==b)  // true		
+
+		
+	Key point: Immutable in the sense that when let x=5, x=10 , so basically x is	
+		pointing to a different address in the memory but 5 is still present 
+		in the memory and becomes part of the garbage collection and that memory
+		is reused depending upon the program management.
+
+	Non-primitive types can't be compared based on values
+	let nums = [1, 2, 3]
+	let numbers = [1, 2, 3]
+
+	console.log(nums == numbers)  // false	
+
+	Non-primitive values are referred to as reference types, because they are 
+	being compared by reference instead of value. 
+	Two objects are only strictly equal if they refer to the same underlying object.
+
+	let nums = [1, 2, 3]
+	let numbers = nums
+
+	console.log(nums == numbers)  // true
+
+	
+
+Arrays: 	
+	An array is a collection of different data types which are ordered and
+	 changeable(modifiable). 
+	An array allows storing duplicate elements and different data types. 
+	An array can be empty, or it may have different data type values.	
+
+	
