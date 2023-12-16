@@ -1,0 +1,33 @@
+React Day 1 Assignment:
+
+1. What is React?
+
+Ans. React is a frontend Javascript Library for building resuable user Interface(UI). 
+
+2. What is a library?
+
+Ans. A library is a collection of pre-written code, functions, classes or modules that provide specific functionalities or 
+    services to simplify software development. In simpler terms it can be said a collection of resuable code to perform
+    common tasks.
+
+3.What is a Single-Page Application(SPA)?
+
+Ans. A Single-Page Application(SPA) is a web Application or website that operates within a single HTML page. It dynamically 
+    updates the content as user interacts without reloading the entire page during navigation.
+
+4. What is a component ?
+
+Ans. A component refers to a modular, resuable and independent part of a larger system or application that consists of 
+    specific functionalities and behaviours.
+
+5. What is modular?
+
+Ans. Modular refers to the approach of breaking down an application or system into smaller, self-contained and interchangeble components.
+
+6. What is the latest version of React?
+
+Ans. React 18 ver 18.2.0
+
+7. What is DOM?
+
+Ans. DOM which stands for Document Object Model refers to a programming Interface for web documents. 
