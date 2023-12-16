@@ -38,4 +38,16 @@ Ans. DOM which stands for Document Object Model refers to a programming Interfac
 8. What is JSX?
 
 Ans. JSX stands for JavascriptXML. It's an extension to Javascript syntax used with React that allows developers
-    to write HTML-like code within Javascript.
+    to write HTML-like code within Javascript. JSX provides a more readable and convinient way to describe the 
+    structure of UI Components.
+
+9. What is babel?
+
+Ans. Babel is a Javascript compiler that enables users to write Javascript with the latest Ecmascript(syntax)
+    while ensuring compatibility with older browsers and environments that might not support the newer features.
+
+10. What is transpiler?
+
+Ans. A transpiler is a "source-to-source" compiler that takes the source code written in one programming language
+    to other programming language and translates it toan equivalent source code in other language.
+    
