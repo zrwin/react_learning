@@ -30,4 +30,12 @@ Ans. React 18 ver 18.2.0
 
 7. What is DOM?
 
-Ans. DOM which stands for Document Object Model refers to a programming Interface for web documents. 
+Ans. DOM which stands for Document Object Model refers to a programming Interface for web documents. It represents 
+    the structure of web pages in a heirarchial tree like structure where each node represents a part of the documents
+    such as elements, attributes and text.
+
+
+8. What is JSX?
+
+Ans. JSX stands for JavascriptXML. It's an extension to Javascript syntax used with React that allows developers
+    to write HTML-like code within Javascript.
